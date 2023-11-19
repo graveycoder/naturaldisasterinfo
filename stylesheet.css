@@ -22,7 +22,7 @@
 .topnav {
     background-color: transparent;
     overflow: hidden;
-    margin-left: 5%;
+    margin-left: 2%;
 }
 
 .topnav a {
@@ -40,7 +40,7 @@
 
 .topnav-right {
   float: right;
-  margin-right: 5%;
+  margin-right: 2%;
 }
 
 #secondheader {
