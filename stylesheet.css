@@ -17,6 +17,7 @@
     background-color: black;
     top: 0;
     z-index: 3;
+    flex-wrap: nowrap;
       }
 
 .topnav {
@@ -35,7 +36,7 @@
  }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: gray;
 }
 
 .topnav-right {
@@ -114,7 +115,7 @@
   }
 
   .itemimage {
-  width: 100%;
-  height: 100%;
-    object-fit: fill;
+    width: 100%;
+    height: 100%; 
+    object-fit: fill;    
   }
